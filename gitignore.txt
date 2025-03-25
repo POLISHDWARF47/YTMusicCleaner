@@ -1,0 +1,4 @@
+credentials.json
+log.txt
+added_tracks.txt
+__pycache__/
